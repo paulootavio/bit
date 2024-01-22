@@ -1,1 +1,1 @@
-1 Create request get data costa azure
+1 Create request get data cost  azure
